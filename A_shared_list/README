@@ -1,0 +1,7 @@
+compile:
+	gcc -fopenmp -o exe knight.c
+
+run:
+	./exe
+
+parameters change in the source file look at the Define statements

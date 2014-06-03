@@ -1,0 +1,7 @@
+compile:
+	gcc -fopenmp -o exe knight.c
+
+run:
+	./exe
+
+Gia allagi parametrwn apo to knight.c stin arxi sta Defines...
